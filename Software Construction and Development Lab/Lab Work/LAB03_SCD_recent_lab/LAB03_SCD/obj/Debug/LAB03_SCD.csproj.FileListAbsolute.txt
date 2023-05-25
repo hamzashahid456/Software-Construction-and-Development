@@ -1,0 +1,9 @@
+C:\Users\exam\Desktop\LAB03_SCD\LAB03_SCD\bin\Debug\LAB03_SCD.exe.config
+C:\Users\exam\Desktop\LAB03_SCD\LAB03_SCD\bin\Debug\LAB03_SCD.exe
+C:\Users\exam\Desktop\LAB03_SCD\LAB03_SCD\bin\Debug\LAB03_SCD.pdb
+C:\Users\exam\Desktop\LAB03_SCD\LAB03_SCD\obj\Debug\LAB03_SCD.Form1.resources
+C:\Users\exam\Desktop\LAB03_SCD\LAB03_SCD\obj\Debug\LAB03_SCD.Properties.Resources.resources
+C:\Users\exam\Desktop\LAB03_SCD\LAB03_SCD\obj\Debug\LAB03_SCD.csproj.GenerateResource.cache
+C:\Users\exam\Desktop\LAB03_SCD\LAB03_SCD\obj\Debug\LAB03_SCD.exe
+C:\Users\exam\Desktop\LAB03_SCD\LAB03_SCD\obj\Debug\LAB03_SCD.pdb
+C:\Users\exam\Desktop\LAB03_SCD\LAB03_SCD\obj\Debug\LAB03_SCD.csprojAssemblyReference.cache

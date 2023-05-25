@@ -1,0 +1,48 @@
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\bin\Debug\SCD_CRUD.exe.config
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\bin\Debug\SCD_CRUD.exe
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\bin\Debug\SCD_CRUD.pdb
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.AssemblyReference.cache
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.Form1.resources
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.Properties.Resources.resources
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.GenerateResource.cache
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.exe
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.pdb
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.dll
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.xml
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\munzir\source\repos\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.CopyComplete
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\bin\Debug\SCD_CRUD.exe.config
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\bin\Debug\SCD_CRUD.exe
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\bin\Debug\SCD_CRUD.pdb
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.dll
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.xml
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.AssemblyReference.cache
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.SuggestedBindingRedirects.cache
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.Form1.resources
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.Properties.Resources.resources
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.GenerateResource.cache
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.CoreCompileInputs.cache
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.CopyComplete
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.exe
+D:\5 semister\project 2\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.pdb
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\bin\Debug\SCD_CRUD.exe.config
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\bin\Debug\SCD_CRUD.exe
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\bin\Debug\SCD_CRUD.pdb
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.dll
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.xml
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.AssemblyReference.cache
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.SuggestedBindingRedirects.cache
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.Form1.resources
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.Properties.Resources.resources
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.GenerateResource.cache
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.CoreCompileInputs.cache
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.csproj.CopyComplete
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.exe
+D:\5 semister\lab project\SCD_CRUD\SCD_CRUD\obj\Debug\SCD_CRUD.pdb

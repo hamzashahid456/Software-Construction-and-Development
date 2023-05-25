@@ -1,0 +1,7 @@
+Compile C# code:
+
+    mcs hello.cs
+
+Run C# code:
+
+    mono hello.exe
